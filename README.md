@@ -1,3 +1,2 @@
-# unity-game3d
-
-Repository for Unity Game Design class
+# Paweł Kardaś
+# Projektowanie gier w środowisku Unity grupa 3
